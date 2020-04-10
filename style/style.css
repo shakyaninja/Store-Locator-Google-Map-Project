@@ -135,6 +135,11 @@ a:hover{
     font-size: 10px;
     padding-top: 10px;
 }
+
+.search-container i:hover{
+    cursor: pointer;
+}
+
 ::-webkit-scrollbar {
     width: 12px;
 }
